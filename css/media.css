@@ -1,0 +1,36 @@
+
+
+@media (max-width: 768px){
+.imaging {
+    margin: auto;
+}.centerize {
+    padding-bottom: 0;
+}.footprints,.icons {
+    margin-bottom: 6px;
+}
+
+}
+@media (max-width: 575px){
+  .logopart .contact span {
+    padding: 6px 10px 7px;
+    font-size: 12px;
+}.logopart .logo img,.banlogo img {
+    width: 120px;
+}.banner_text h1,.banner_text h2,.top h1,.program h4,.preschll h2,.mams_sec h2,.mams_sec h2,.reviews h1{
+    font-size: 25px;
+}.banner a,.registration ul a,.media a {
+    padding: 6px 18px;
+    font-size: 12px;
+}.top h2,.mams .mamsleft h4 {
+    font-size: 16px;
+}.program p.mams,.mamsright p{
+    font-size: 14px;
+    line-height: 20px;
+}.coloring h2 {
+    font-size: 18px;
+    font-weight: 500;
+}.preschll img {
+    width: 75px;
+}.slick-dots li button:before {
+    font-size: 40px;
+}
